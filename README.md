@@ -38,6 +38,7 @@ Co zrobiłem w projekcie?
 •	Dokonałem testu silników w programie Betaflight Configurator.
 •	Wspólnie założyliśmy śmigła na silniki zgodnie z zaleceniami (3016, 3016R).
 •	Przylutowałem przewody kamery oraz odbiornika do kontrolera lotu FC.
+•	Zaktualizowałem wersję nadajnika w programie ExpressLRS Configurator.
 •	Zaprogramowałem odpowiednio odbiornik oraz funkcje przełączników nadajnika (tryb ARM, tryb Angle, tryb Horizon).
 •	Połączyłem nadajnik z odbiornikiem za pomocą komunikacji ELRS.
 •	Wspólnie wykonaliśmy pierwsze (udane testy) mikrodrona w zakresie latania z wykorzystaniem trybu stabilizującego lot (tryb Angle) oraz bez tego trybu.
@@ -85,6 +86,7 @@ What did I do in the project?
 • I tested the motors in the Betaflight Configurator program.
 • Together we put the propellers on the motors according to the recommendations (3016, 3016R).
 • I soldered the camera and receiver wires to the FC flight controller.
+• I updated the transmitter version in the ExpressLRS Configurator program.
 • I programmed the receiver and the transmitter switch functions (ARM mode, Angle mode, Horizon mode) accordingly.
 • I connected the transmitter to the receiver using ELRS communication.
 • Together we performed the first (successful) tests of the microdrone in terms of flying using the flight stabilization mode (Angle mode) and without this mode.
